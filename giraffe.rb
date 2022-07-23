@@ -18,5 +18,3 @@ character_name = "Spiderman"
 character_age = "17"
 puts "I am " + character_name
 puts "I am " + character_age
-
-
