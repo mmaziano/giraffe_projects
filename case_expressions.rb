@@ -1,3 +1,4 @@
+# this function prints the weekday
 def get_day_name(day)
 	day_name = ""
 
